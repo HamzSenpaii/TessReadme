@@ -30,7 +30,7 @@ HsTermx/
 ├── install.sh                        # Script utama instalasi otomatis
 ├── theme/osx2.zsh-theme              # Tema untuk ZSH
 ├── colors/nekonako-djancoeg.colors   # Tema warna untuk Termux
-├── fonts/FiraCode-Bold-Nerd-Font.ttf # Font yang digunakan
+├── fonts/firacode-bold-nerd-font.ttf # Font yang digunakan
 └── rxfetch/rxfetch                   # Info sistem terminal (fetch tools)
 ```
 
