@@ -40,6 +40,7 @@ HsTermx/
 
   <details open>
   <summary><strong>Installation HsTermx</strong></summary>
+
     
 - Update Repository & Upgrade Package
     
