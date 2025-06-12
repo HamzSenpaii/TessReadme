@@ -3,53 +3,48 @@
 
 ---
 
-## 📌 Deskripsi
+## 📌 Description of HsTermx
 
-**HsTermx** adalah script otomatisasi untuk mempercantik tampilan Termux secara ringan, cepat, dan personal.  
-Script ini mengatur shell Zsh, menambahkan tema, font, warna, serta fetch info terminal agar tampil menarik dan tetap ringan — ideal untuk pengguna yang ingin tampil beda tanpa membebani performa.
+**HsTermx** adalah script otomatis untuk mempercantik tampilan Termux secara ringan, cepat, dan profesional.  
+Script ini mengatur shell Zsh, menambahkan tema, font, warna, serta fetch info terminal agar tampil menarik dan tetap ringan.
+
+Ideal untuk pengguna yang ingin tampil beda tanpa membebani performa.
 
 ---
 
-## ✨ Fitur
+## ✨ Features of HsTermx
 
 - 🎨 Mengganti tampilan Termux secara otomatis
-- 🖥️ Menampilkan info sistem dengan `rxfetch`
+- 🖥️ Menampilkan info sistem dengan \`rxfetch\`
 - 🔤 Menggunakan font modern: **Fira Code Bold Nerd Font**
 - 🌈 Mengaktifkan tema warna custom: **nekonako-djancoeg.colors**
-- 🧠 Konfigurasi ZSH dengan tema manual `osx2.zsh-theme`
+- 🧠 Konfigurasi ZSH dengan tema manual \`osx2.zsh-theme\`
 - 🚀 Ringan, tidak menggunakan plugin ZSH tambahan
-- ❌ Tidak menggunakan efek **cursor blink** (lebih nyaman)
 
 ---
 
-## 📁 Struktur Script
+## 📁 Directory Structure
 
-\`\`\`
 HsTermx/
-├── install.sh                        # Script utama instalasi otomatis
-├── theme/osx2.zsh-theme             # Tema untuk ZSH
-├── colors/nekonako-djancoeg.colors  # Tema warna untuk Termux
-├── fonts/FiraCode-Bold-Nerd-Font.ttf# Font Nerd yang digunakan
-└── rxfetch/rxfetch                  # Info sistem terminal (fetch tool)
-\`\`\`
+├── install.sh     # Script utama instalasi otomatis
+├── theme/osx2.zsh-theme     # Tema untuk ZSH
+├── colors/nekonako-djancoeg.colors     # Tema warna untuk Termux
+├── fonts/FiraCode-Bold-Nerd-Font.ttf # Font yang digunakan
+└── rxfetch/rxfetch                   # Info sistem terminal (fetch tools)
 
 ---
 
-## ⚙️ Cara Instalasi
+## ⚙️ Installation Guide
 
-\`\`\`bash
 pkg update && pkg upgrade
 pkg install git -y
 git clone https://github.com/username/HsTermx.git
 cd HsTermx
 bash install.sh
-\`\`\`
-
-> 🔁 Gantilah \`username\` dengan nama pengguna GitHub milikmu jika berbeda.
 
 ---
 
-## 🧠 Kredit & Penjelasan
+## 🧠 Credits & Notes
 
 - Script ini dibuat oleh **HamzSenpaii** sebagai alternatif dari MyTermux dengan fokus pada performa ringan.
 - Inspirasi tampilan berasal dari tema macOS dan setup fetch yang minimal.
