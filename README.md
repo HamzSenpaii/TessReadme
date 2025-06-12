@@ -89,17 +89,17 @@ Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifik
 
 ### 💡 Inspirasi
 - script **HsTermx** alternatif dari **MyTermux** dengan fokus pada performa yang ringan.
-- Dikembangkan ulang agar lebih minimal, ringan, dan mudah diinstal.
+- Dikembangkan ulang agar lebih minimalist, ringan, dan mudah diinstal.
 
 ## 🙌 Thanks To
 
-- **[HamzSenpaii](https://github.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild Script MyTermux agar lebih ringan dan minimalis.
+- **[HamzSenpaii](https://github.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild Script [MyTermux](https://github.com) agar lebih ringan dan minimalis.
 - **adi1090x** – Pembuat script [MyTermux](https://github.com/adi1090x/MyTermux) yang menjadi inspirasi utama.
-- **rxfetch** – Minimalist system fetch script yang digunakan untuk menampilkan informasi sistem.
+- **[rxfetch](https://github.com)** – Minimalist system fetch script yang digunakan untuk menampilkan informasi sistem.
 - Kontributor tema dan font:
-  - `osx2.zsh-theme` – Tema ZSH bergaya macOS.
-  - `FiraCode Nerd Font` – Font terminal dengan ikon lengkap.
-  - `nekonako-djancoeg.colors` – Tema warna custom untuk kenyamanan visual.
+  - `[osx2.zsh-theme](https://github.com}` – Tema ZSH bergaya macOS.
+  - `[FiraCode Nerd Font](https://github.com)` – Font terminal dengan ikon lengkap.
+  - `[nekonako-djancoeg.colors](https://github.com)` – Tema warna custom untuk kenyamanan visual.
 - ❤️ Komunitas Termux & open-source – Untuk segala ilmu, alat, dan semangat kolaborasi.
 
 > Terima kasih untuk semua pihak yang telah membantu, baik secara langsung maupun sebagai inspirasi.
