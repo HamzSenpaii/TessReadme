@@ -39,17 +39,43 @@ HsTermx/
 ## ⚙️ Installation Guide
 
   <details open>
-  <summary><strong>Installation Scripts HsTermx</strong></summary>
-
+  <summary><strong>Installation HsTermx</strong></summary>
+    
+- Update Repository & Upgrade Package
+    
 ```bash
 pkg update && pkg upgrade -y
-pkg install git -y
-git clone https://github.com/HamzSenpaii/HsTermx.git
-cd HsTermx
-chmod +x install.sh
-./install.sh
 ```
 
+- Instalation Git For Cloning Repository
+
+```bash
+pkg install git -y
+```
+
+- Clone Or Download Repository
+
+```bash
+git clone https://github.com/HamzSenpaii/HsTermx.git
+```
+
+- Move Folder
+
+```bash
+cd HsTermx
+```
+
+- Give Permission
+
+```bash
+chmod +x install.sh
+```
+
+- Execute Installer
+
+```bash
+./install.sh
+```
   </details>
 
 ---
