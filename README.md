@@ -38,11 +38,19 @@ HsTermx/
 
 ## ⚙️ Installation Guide
 
-pkg update && pkg upgrade
+  <details open>
+  <summary><strong>Installation Scripts HsTermx</strong></summary>
+
+```bash
+pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/username/HsTermx.git
+git clone https://github.com/HamzSenpaii/HsTermx.git
 cd HsTermx
-bash install.sh
+chmod +x install.sh
+./install.sh
+```
+
+  </details>
 
 ---
 
