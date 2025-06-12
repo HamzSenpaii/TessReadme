@@ -93,10 +93,10 @@ Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifik
 
 ## 🙌 Thanks To
 
-- 👤 **HamzSenpaii** – Pembuat script **HsTermx**, yang merebuild ulang setup Termux agar lebih ringan dan minimal.
-- 🧠 **adi1090x** – Pembuat script [MyTermux](https://github.com/adi1090x/MyTermux) yang menjadi inspirasi utama.
-- 🔧 **rxfetch** – Minimalist system fetch script yang digunakan untuk menampilkan informasi sistem.
-- 🎨 Kontributor tema dan font:
+- **[HamzSenpaii](https://gitbuh.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild Script MyTermux agar lebih ringan dan minimalis.
+- **adi1090x** – Pembuat script [MyTermux](https://github.com/adi1090x/MyTermux) yang menjadi inspirasi utama.
+- **rxfetch** – Minimalist system fetch script yang digunakan untuk menampilkan informasi sistem.
+- Kontributor tema dan font:
   - `osx2.zsh-theme` – Tema ZSH bergaya macOS.
   - `FiraCode Nerd Font` – Font terminal dengan ikon lengkap.
   - `nekonako-djancoeg.colors` – Tema warna custom untuk kenyamanan visual.
