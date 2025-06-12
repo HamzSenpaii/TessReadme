@@ -93,7 +93,7 @@ Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifik
 
 ## 🙌 Thanks To
 
-- **[HamzSenpaii](https://gitbuh.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild Script MyTermux agar lebih ringan dan minimalis.
+- **[HamzSenpaii](https://github.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild Script MyTermux agar lebih ringan dan minimalis.
 - **adi1090x** – Pembuat script [MyTermux](https://github.com/adi1090x/MyTermux) yang menjadi inspirasi utama.
 - **rxfetch** – Minimalist system fetch script yang digunakan untuk menampilkan informasi sistem.
 - Kontributor tema dan font:
