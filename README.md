@@ -27,7 +27,7 @@ Ideal untuk pengguna yang ingin tampil beda tanpa membebani performa.
 
 ```text
 HsTermx/
-├── install.sh                         # Script utama instalasi otomatis
+├── install.sh                        # Script utama instalasi otomatis
 ├── theme/osx2.zsh-theme              # Tema untuk ZSH
 ├── colors/nekonako-djancoeg.colors   # Tema warna untuk Termux
 ├── fonts/FiraCode-Bold-Nerd-Font.ttf # Font yang digunakan
