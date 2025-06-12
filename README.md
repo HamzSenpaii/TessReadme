@@ -40,8 +40,8 @@ HsTermx/
 
   <details open>
   <summary><strong>Installation HsTermx</strong></summary>
-
-    
+    <br>
+    <br>
 - Update Repository & Upgrade Package
     
 ```bash
