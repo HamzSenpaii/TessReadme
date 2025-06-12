@@ -15,10 +15,10 @@ Ideal untuk pengguna yang ingin tampil beda tanpa membebani performa.
 ## ✨ Features of HsTermx
 
 - 🎨 Mengganti tampilan Termux secara otomatis
-- 🖥️ Menampilkan info sistem dengan \`rxfetch\`
+- 🖥️ Menampilkan info sistem dengan `rxfetch`
 - 🔤 Menggunakan font modern: **Fira Code Bold Nerd Font**
 - 🌈 Mengaktifkan tema warna custom: **nekonako-djancoeg**
-- 🧠 Konfigurasi ZSH dengan tema manual \`osx2.zsh-theme\`
+- 🧠 Konfigurasi ZSH dengan tema manual `osx2.zsh-theme`
 - 🚀 Ringan, tidak menggunakan plugin ZSH tambahan
 
 ---
