@@ -92,10 +92,10 @@ Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifik
 - Dikembangkan ulang agar lebih minimal, ringan, dan mudah diinstal.
 
 > Dibuat dengan ❤️ oleh HamzSenpaii
+> <br>
 > Thanks To
->
->   - nsnns
-> Original inspired by [MyTermux](https://github.com/adi1090x/MyTermux).
+> <br>
+>   - Original inspired by [MyTermux](https://github.com/adi1090x/MyTermux).
 
 
 - Script ini dibuat oleh **HamzSenpaii** sebagai alternatif dari MyTermux dengan fokus pada performa ringan.
