@@ -97,22 +97,9 @@ Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifik
 - **[MyTermux](https://github.com)** – Script original yang menjadi inspirasi utama pembuatan ulang.
 - **[rxfetch](https://github.com)** – Script sistem fetch minimalis yang digunakan untuk menampilkan informasi sistem.
 - 🎨 Kontributor tema dan font:
-  - `[osx2.zsh-theme` – Tema ZSH bergaya macOS.
+  - [`osx2.zsh-theme`](https://github.com) – Tema ZSH bergaya macOS.
   - [`FiraCode Nerd Font`](https://github.com) – Font terminal dengan ikon lengkap.
   - [`nekonako-djancoeg.colors`](https://github.com) – Tema warna custom untuk kenyamanan visual.
-- ❤️ Komunitas Termux & open-source – Untuk segala ilmu, alat, dan semangat kolaborasi.
-
-> Terima kasih untuk semua pihak yang telah membantu, baik secara langsung maupun sebagai inspirasi.
-
-## 🙌 Thanks To
-
-- **[HamzSenpaii](https://github.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild Script [MyTermux](https://github.com) agar lebih ringan dan minimalist.
-- **adi1090x** – Pembuat script [MyTermux](https://github.com/adi1090x/MyTermux) yang menjadi inspirasi utama.
-- **[rxfetch](https://github.com)** – Minimalist system fetch script yang digunakan untuk menampilkan informasi sistem.
-- Kontributor tema dan font:
-  - `[osx2.zsh-theme](https://github.com}` – Tema ZSH bergaya macOS.
-  - `[FiraCode Nerd Font](https://github.com)` – Font terminal dengan ikon lengkap.
-  - `[nekonako-djancoeg.colors](https://github.com)` – Tema warna custom untuk kenyamanan visual.
 - ❤️ Komunitas Termux & open-source – Untuk segala ilmu, alat, dan semangat kolaborasi.
 
 > Terima kasih untuk semua pihak yang telah membantu, baik secara langsung maupun sebagai inspirasi.
