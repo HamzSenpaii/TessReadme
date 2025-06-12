@@ -83,6 +83,17 @@ chmod +x install.sh
 
 ## 🧠 Credits & Notes
 
+Script **HsTermx** dibuat oleh **HamzSenpaii** sebagai _rebuild ringan_ dari script original [MyTermux](https://github.com/adi1090x/MyTermux).  
+Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifikasi** dengan fokus utama pada kesederhanaan, efisiensi, dan pengurangan beban sistem.
+
+### 💡 Inspirasi
+- Terinspirasi dari estetika setup terminal *macOS* dan struktur MyTermux.
+- Dikembangkan ulang agar lebih minimal, ringan, dan mudah diinstal.
+
+> Dibuat dengan ❤️ oleh HamzSenpaii  
+> Original inspired by [MyTermux](https://github.com/adi1090x/MyTermux)
+
+
 - Script ini dibuat oleh **HamzSenpaii** sebagai alternatif dari MyTermux dengan fokus pada performa ringan.
 - Inspirasi tampilan berasal dari tema macOS dan setup fetch yang minimal.
 - Tools & sumber yang digunakan:
