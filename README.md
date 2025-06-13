@@ -84,7 +84,7 @@ chmod +x install.sh
 ## 🧠 Credits & Notes
 
 Script **HsTermx** dibuat oleh **HamzSenpaii**,
-sebagai _rebuild ringan_ dari script original [MyTermux](https://github.com).  
+sebagai _rebuild ringan_ dari script original [MyTermux](https://github.com/mayTermux/myTermux).  
 Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifikasi** dengan fokus utama pada kesederhanaan, efisiensi, dan pengurangan beban sistem.
 
 ### 💡 Inspirasi
@@ -93,13 +93,13 @@ Ini **bukan hasil fork langsung**, melainkan hasil **pembuatan ulang dan modifik
 
 ## 🙌 Thanks To
 
-- **[HamzSenpaii](https://github.com/)** – Pembuat script **HsTermx**, yang merebuild script **MyTermux** agar lebih ringan dan minimalist.
-- **[MyTermux](https://github.com)** – Script original yang menjadi inspirasi utama pembuatan ulang.
-- **[rxfetch](https://github.com)** – Script sistem fetch minimalis yang digunakan untuk menampilkan informasi sistem.
-- 🎨 Kontributor tema dan font:
-  - [`osx2.zsh-theme`](https://github.com) – Tema ZSH bergaya macOS.
-  - [`FiraCode Nerd Font`](https://github.com) – Font terminal dengan ikon lengkap.
-  - [`nekonako-djancoeg.colors`](https://github.com) – Tema warna custom untuk kenyamanan visual.
+- **[HamzSenpaii](https://github.com/HamzSenpaii)** – Pembuat script **HsTermx**, yang merebuild script **MyTermux** agar lebih ringan dan minimalist.
+- **[MyTermux](https://github.com/mayTermux/myTermux)** – Script original yang menjadi inspirasi utama pembuatan ulang.
+- **[rxfetch](https://github.com/mayTermux/rxfetch-termux)** – Script sistem fetch minimalis yang digunakan untuk menampilkan informasi sistem.
+- Kontributor tema dan font:
+  - [`osx2.zsh-theme`](https://github.com/mayTermux/myTermux) – Tema ZSH bergaya macOS.
+  - [`FiraCode Nerd Font`](https://github.com/mayTermux/myTermux) – Font terminal dengan ikon lengkap.
+  - [`nekonako-djancoeg.colors`](https://github.com/mayTermux/myTermux) – Tema warna custom untuk kenyamanan visual.
 - ❤️ Komunitas Termux & open-source – Untuk segala ilmu, alat, dan semangat kolaborasi.
 
 > Terima kasih untuk semua pihak yang telah membantu, baik secara langsung maupun sebagai inspirasi.
